@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/pygeek03/.config/etcher'
+let g:netrw_dirhist_2='/home/pygeek03/.config/etcher/GPUCache'
+let g:netrw_dirhist_3='/home/pygeek03/.config/etcher'
+let g:netrw_dirhist_4='/home/pygeek03/.config/etcher/Local Storage'
+let g:netrw_dirhist_5='/home/pygeek03/.config/etcher'
+let g:netrw_dirhist_6='/home/pygeek03/.config/gtk-2.0'
+let g:netrw_dirhist_7='/home/pygeek03/.config'
+let g:netrw_dirhist_8='/etc/X11/xorg.conf.d'
